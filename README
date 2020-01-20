@@ -1,0 +1,23 @@
+NAME: William Cantera
+EMAIL: wcantera@udel.edu
+STUDENT ID: 702464888
+
+NAME: William Dwinnell 
+EMAIL: liamd@udel.edu
+STUDENT ID: 702479821
+
+
+PROJECT DESCRIPTION:
+
+SPACE INVADERS
+
+We are aiming to recreate the space invaders game on the sense hat. The goal is to dodge the incoming
+projectiles and shoot the invaders to win. 
+
+HOW TO PLAY:
+
+Tilt the Rasberry Pi to the left and right to control your blue block. Press the joystick in any direction to shoot. If an alien hits the bottom of the screen you lose. Note: it may
+take a few seconds for the aliens to start spawning. 
+
+702479821 made most of the game, 702464888 made the input/output tests and some other stuff like the end game screen. Most commits were made from 702464888 Rasberry Pi as the other member was having trouble committing to git.
+Rest assured we both contributed to this project.
